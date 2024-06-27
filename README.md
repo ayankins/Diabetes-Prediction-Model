@@ -10,7 +10,11 @@ This repository contains the code for a machine learning model that predicts the
 
 - `numpy`
 - `pandas`
-- `scikit-learn` (StandardScaler, train_test_split, svm, accuracy_score)
+- `scikit-learn`
+- `svm`
+- `StandardScaler`
+- `train_test_split`
+- `accuracy_score`
 
 ## Dataset
 
