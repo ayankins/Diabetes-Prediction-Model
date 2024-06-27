@@ -18,6 +18,6 @@ This repository contains the code for a machine learning model that predicts the
 
 ## Dataset
 
-- **Source:** [Dataset link or name]
+- **Source:** https://github.com/ayankins/Diabetes-Prediction-Model/blob/main/diabetes.csv
 - **Description:** The dataset includes various patient attributes such as age, BMI, blood pressure, insulin levels, etc.
 
